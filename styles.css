@@ -1,0 +1,29 @@
+.semester-list {
+    list-style-type: none; 
+    color: rgb(8, 83, 84);
+}
+.semester{
+    background-color: rgb(237, 207, 162);
+    border-width: 4px;
+    border-style:solid;
+    border-color: rgb(10, 138, 167);
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.semester-name{
+font-family: sans-serif;
+font-weight: normal;
+margin:0%
+margin-bottom: 30px
+border-bottom-width: 4px
+border-bottom-style: dotted
+border-bottom-color: blue
+}
+.courses{
+    background-color: rgb(239, 228, 200);
+    padding: 5px;
+    list-style-type: lower-roman;
+}
+html{
+    background-color: rgb(154, 202, 201);
+}
